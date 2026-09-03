@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -17,26 +17,26 @@
 
 ## 📖 Contents
 - [Resources](#resources)
-    - [Books](#books)
-    - [Videos](#videos)
+    - [Books](#-books)
+    - [Videos](#-videos)
         - [Video Series](#video-series)
-    - [Certifications](#certifications)
+    - [Certifications](#-certifications)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 ## Resources
 
-### Books
+### [↑](#-contents) Books
 * [Red Team Engineering: The Art of Building Offensive Tools and Infrastructure](https://www.amazon.com/Red-Team-Engineering-Offensive-Infrastructure/dp/1718504268)
 * [RTFM: Red Team Field Manual v2](https://www.amazon.com/RTFM-Red-Team-Field-Manual/dp/1075091837)
 * [Evasion Engineering: Building Custom Red Team Tools for Modern Defenses](https://www.amazon.com/Evasion-Engineering-Building-Custom-Defenses/dp/1718505043)
 
-### Videos
+### [↑](#-contents) Videos
 
 #### Video Series
 
-### Certifications
+### [↑](#-contents) Certifications
 - [GIAC Red Team Professional (`GRTP`)](https://www.giac.org/certifications/red-team-professional-grtp)
 - [OSAI by OffSec](https://help.offsec.com/hc/articles/46593096734612-OSAI-Exam-Guide)
 - [OSAI+ by OffSec](https://help.offsec.com/hc/articles/46593095198740-OSAI-Advanced-AI-Red-Teaming-AI-300-FAQ)
@@ -44,6 +44,10 @@
 - [OSCP+ by OffSec](https://help.offsec.com/hc//articles/4412170923924-OSCP-Exam-FAQ)
     - [Penetration Testing with Kali Linux by OffSec](https://www.offsec.com/courses/pen-200/)
 
+### [↑](#-contents) AI-powered Assistant Tools
+ - [Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team.
+ - [DeepTeam](https://github.com/confident-ai/deepteam) - [DeepTeam](https://trydeepteam.com/) is a framework to red team LLMs and AI agents.
+ 
 ##
 
 ### My Other Awesome Lists
