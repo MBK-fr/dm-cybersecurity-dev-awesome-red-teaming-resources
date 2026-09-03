@@ -33,8 +33,10 @@
 * [Evasion Engineering: Building Custom Red Team Tools for Modern Defenses](https://www.amazon.com/Evasion-Engineering-Building-Custom-Defenses/dp/1718505043)
 
 ### [↑](#-contents) Videos
-
+- [Ethical Hacking Course: Red Teaming For Beginners by q0phi80](https://youtu.be/OtcP8c4wZys?si=fHinY4O9qMGbE-zH)
 #### Video Series
+- [Red Team Essentials by HackerSploit](https://youtube.com/playlist?list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu&si=VDOU6ZdhNl5L9n2o)
+- [Hacking Active Directory by Hacker Blueprint](https://youtube.com/playlist?list=PLM1644RoigJuTWKG4ZUgAFkiY3WBMqoyQ&si=on251dL-fdVlaNQS)
 
 ### [↑](#-contents) Certifications
 - [GIAC Red Team Professional (`GRTP`)](https://www.giac.org/certifications/red-team-professional-grtp)
